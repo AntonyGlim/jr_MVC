@@ -4,7 +4,6 @@ import com.javarush.task.task36.task3608.bean.User;
 
 import java.util.Arrays;
 import java.util.LinkedList;
-import java.util.List;
 
 /**
  * Он нам понадобится на начальном этапе.
