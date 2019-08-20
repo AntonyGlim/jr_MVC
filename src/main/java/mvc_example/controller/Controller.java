@@ -1,8 +1,9 @@
-package com.javarush.task.task36.task3608.controller;
+package mvc_example.controller;
 
-import com.javarush.task.task36.task3608.model.Model;
-import com.javarush.task.task36.task3608.view.EditUserView;
-import com.javarush.task.task36.task3608.view.UsersView;
+
+import mvc_example.model.Model;
+import mvc_example.view.EditUserView;
+import mvc_example.view.UsersView;
 
 /**
  * Этот класс будет получать запрос от клиента,

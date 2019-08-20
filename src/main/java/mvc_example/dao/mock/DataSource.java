@@ -1,6 +1,7 @@
-package com.javarush.task.task36.task3608.dao.mock;
+package mvc_example.dao.mock;
 
-import com.javarush.task.task36.task3608.bean.User;
+
+import mvc_example.bean.User;
 
 import java.util.LinkedList;
 import java.util.List;

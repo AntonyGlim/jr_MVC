@@ -1,10 +1,10 @@
-package com.javarush.task.task36.task3608;
+package mvc_example;
 
-import com.javarush.task.task36.task3608.controller.Controller;
-import com.javarush.task.task36.task3608.model.MainModel;
-import com.javarush.task.task36.task3608.model.Model;
-import com.javarush.task.task36.task3608.view.EditUserView;
-import com.javarush.task.task36.task3608.view.UsersView;
+import mvc_example.controller.Controller;
+import mvc_example.model.MainModel;
+import mvc_example.model.Model;
+import mvc_example.view.EditUserView;
+import mvc_example.view.UsersView;
 
 public class Solution {
     public static void main(String[] args) {

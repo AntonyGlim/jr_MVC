@@ -1,8 +1,8 @@
-package com.javarush.task.task36.task3608.model;
+package mvc_example.model;
 
-import com.javarush.task.task36.task3608.bean.User;
-import com.javarush.task.task36.task3608.model.service.UserService;
-import com.javarush.task.task36.task3608.model.service.UserServiceImpl;
+import mvc_example.bean.User;
+import mvc_example.model.service.UserService;
+import mvc_example.model.service.UserServiceImpl;
 
 import java.util.List;
 

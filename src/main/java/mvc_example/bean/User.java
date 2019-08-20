@@ -1,4 +1,4 @@
-package com.javarush.task.task36.task3608.bean;
+package mvc_example.bean;
 
 public class User implements Cloneable {
     private String name;
